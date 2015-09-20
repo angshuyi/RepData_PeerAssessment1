@@ -2,11 +2,9 @@
 title: "Reproducible Research: Peer Assessment 1"
 output: 
   html_document:
-    keep_md: true
+    keep_md: yes
+    toc: yes
 ---
-#**Reproducible Research (Assignment 1)**
-
-
 ####**Loading and preprocessing the data**
 
 ```{R echo=TRUE}
